@@ -41,7 +41,7 @@ The simulation concludes when all commands have been processed.
 **Detailed specifications are available in Italian here.**
 
 ## Project Status
-To be able to pass, the program must run and provide a correct output for a secret test. The final grade is determined based on time and memory efficiency requirements. Both must be met to achieve the grade.
+To be able to pass, the program must run and provide a correct output for a secret remote test. The final grade is determined based on the time and peak memory used during execution of the secret test. Both requirements must be met to achieve the grade.
 |Grade|Time|Memory|Passed|
 |--|--|--|--|
 |OPEN|45.0 s|150.0 MiB|✅
@@ -56,7 +56,7 @@ To be able to pass, the program must run and provide a correct output for a secr
 
 A set of public tests and expected outputs are also provided to test the program's functionality and efficiency.
 
-## Runnin the program
+## Running the program
 
 Once compiled, run `pastryshop.c < input.txt > output.txt`
 
