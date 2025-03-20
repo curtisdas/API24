@@ -38,7 +38,7 @@ It is assumed that all quantities are integers and greater than zero, regardless
 
 The simulation concludes when all commands have been processed.
 
-**Detailed specifications are available in Italian here.**
+**Detailed specifications are available in Italian.**
 
 ## Project Status
 To be able to pass, the program must run and provide a correct output for a secret remote test. The final grade is determined based on the time and peak memory used during execution of the secret test. Both requirements must be met to achieve the grade.
