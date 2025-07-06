@@ -62,5 +62,3 @@ Once compiled, run `pastryshop.c < input.txt > output.txt`
 
 To verify the result is correct run `diff output.txt expected_output.txt`
 
-**The source code will be available once i receive confirmation i can publish it publicly.**
-
